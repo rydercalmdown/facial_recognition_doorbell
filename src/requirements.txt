@@ -1,0 +1,3 @@
+objectdaddy==0.0.4
+rtsparty==0.0.1
+face-recognition==1.3.0
